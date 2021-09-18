@@ -105,7 +105,7 @@ export function App() {
         <img src={image} className="logo" aria-hidden="true" alt="Dom Logo" />
 
         <div className="header-text">
-          <h1>Build the Snowman!</h1>
+          <h1>Don&apos;t Build the Snowman!</h1>
         </div>
 
         <div className="snowflake">❅</div>
@@ -167,7 +167,10 @@ export function App() {
           </p>
         </div>
         <button onClick={handleNewGame} className="reset-button">
-          New Word!
+          <p>New Word!</p>
+          <svg height="45" width="145">
+            <rect height="45" width="145" />
+          </svg>
         </button>
       </footer>
     </div>
