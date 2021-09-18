@@ -1,21 +1,19 @@
-# react-project-template
+# Snowman Classic
 
 ## Assignment
 
-The goal of this assignment was to create a basic webpage to act as a template for all future html/react projects.
+The goal of this assignment was to recreate a _classic_ `Hangman` game similar to the one displayed below.
 
-![image of My webpage](././images/mypage.png)
-
-The above is a screen capture of the template that I created.
-
-![image of My Favicon](././icons/current/dai5.svg)
-
-The above is a custom favicon that I made for the template, to be used in all future html/react projects.
-
-<br/>
+![image of example classic hangman](https://raw.githubusercontent.com/suncoast-devs/handbook/master/assignments/assets/snowman.gif)
 
 A link to the webpage that I made can be found in the **About** section of this repository or below.
 
 ```html
-https://react-template-dommitchell.netlify.app/
+https://snowman-classic-dommitchell.netlify.app/
+```
+
+For the _reverse_ `Hangman` game visit the link below.
+
+```html
+https://snowman-dommitchell.netlify.app/
 ```
